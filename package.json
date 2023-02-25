@@ -1,0 +1,27 @@
+{
+  "name": "FpgaRiders",
+  "version": "0.1.0",
+  "description": "Collection of Blocks designed by Icestudio users ",
+  "header": "",
+  "footer": "https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg",
+  "wiki": "https://github.com/FPGAwars/FpgaRiders/wiki",
+  "keywords": ["users","collection","various"],
+  "license": "LGPL-3.0",
+  "authors": [
+    {
+      "name": "Carlos Venegas",
+      "url": "https://github.com/cavearr"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Obijuan",
+      "url": "https://github.com/Obijuan"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "branch": "main",
+    "url": "https://github.com/FPGAwars/FpgaRiders"
+  }
+}

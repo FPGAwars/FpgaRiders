@@ -1,0 +1,20 @@
+{
+  "name": "IceChips",
+  "version": "0.9.2",
+  "description": "7400-series TTL Standard Parts Collection",
+  "keywords": [
+    "74xx", "7400", "74181", "TTL", "LS", "ALS", "AS", "FAST", "HCT", "HC", "CMOS", "ECL",
+    "Icestudio", "IceStorm", "Verilog", "Simulation", "Behavioural Model", "FPGA",
+    "Open Hardware", "Logic Family", "Discrete Logic", "ALU", "SSI", "MSI", "IC", "RTL"
+  ],
+  "license": "GPL-3.0-or-later",
+  "authors": [{
+    "name": "Tim Rudy",
+    "url": "https://github.com/TimRudy"
+  }],
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TimRudy/ice-chips-verilog.git"
+  }
+}
