@@ -12,16 +12,23 @@ Find all the information on the [WIKI page](https://github.com/FPGAwars/FpgaRide
 
 categories:
 
-1-In-Outs		: for Fpga inputs outputs dealing (tri-state, de-bouncing, boutons of every sort, mechanical encoders ... )
-2-LogicCircuits	: basic Gates, Combinatory and sequential logic, + special Tim rudy 74LS,.. collection (thanks to him for that job!)  (It can be fun for emulating, with an fpgaboard, a circuit that we can later solder with traditional ICs (not all DiY applications need the final use of a 100KLuts  FPGA ;-) )
+1- In-Outs		: for Fpga inputs outputs dealing (tri-state, de-bouncing, boutons of every sort, mechanical encoders ... )
 
-3-Interface	: simple protocol interfaces ( thaht can be used with almost any periferal comunicating with thaht protocol),   complex interfaces ( oriented to the use of a single, particular peripheral...)
-4-Memories	: FF, Bram, external memories controller,...
-5-Math		: More " complex" Multi-bit math operations (@ Democrito ;-))
-6-Processing	: Cpu, DSP, ...,  and the much simpler State-machines	
-7-Sound		: for the pleasure of your hears :-)
-8-Graphics	: for the pleasure of your Eyes :-)
-9-Various		: guess what! :-)
+2- LogicCircuits	: basic Gates, Combinatory and sequential logic, + special Tim rudy 74LS,.. collection (thanks to him for that job!)  (It can be fun for emulating, with an fpgaboard, a circuit that we can later solder with traditional ICs (not all DiY applications need the final use of a 100KLuts  FPGA ;-) )
+
+3- Interface	: simple protocol interfaces ( thaht can be used with almost any periferal comunicating with thaht protocol),   complex interfaces ( oriented to the use of a single, particular peripheral...)
+
+4- Memories	: FF, Bram, external memories controller,...
+
+5- Math		: More " complex" Multi-bit math operations (@ Democrito ;-))
+
+6- Processing	: Cpu, DSP, ...,  and the much simpler State-machines
+	
+7- Sound		: for the pleasure of your hears :-)
+
+8- Graphics	: for the pleasure of your Eyes :-)
+
+9- Various		: guess what! :-)
 
 
 
